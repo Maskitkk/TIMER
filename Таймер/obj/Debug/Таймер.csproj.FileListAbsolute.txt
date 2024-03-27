@@ -1,0 +1,10 @@
+C:\Users\User\Documents\projects\Таймер\Таймер\bin\Debug\Таймер.exe.config
+C:\Users\User\Documents\projects\Таймер\Таймер\bin\Debug\Таймер.exe
+C:\Users\User\Documents\projects\Таймер\Таймер\bin\Debug\Таймер.pdb
+C:\Users\User\Documents\projects\Таймер\Таймер\obj\Debug\Таймер.csproj.AssemblyReference.cache
+C:\Users\User\Documents\projects\Таймер\Таймер\obj\Debug\Таймер.Form1.resources
+C:\Users\User\Documents\projects\Таймер\Таймер\obj\Debug\Таймер.Properties.Resources.resources
+C:\Users\User\Documents\projects\Таймер\Таймер\obj\Debug\Таймер.csproj.GenerateResource.cache
+C:\Users\User\Documents\projects\Таймер\Таймер\obj\Debug\Таймер.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projects\Таймер\Таймер\obj\Debug\Таймер.exe
+C:\Users\User\Documents\projects\Таймер\Таймер\obj\Debug\Таймер.pdb
